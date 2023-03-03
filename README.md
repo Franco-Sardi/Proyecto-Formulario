@@ -1,2 +1,2 @@
 # Proyecto-Formulario
-Formulario con HTML,CSS,JS
+Formulario con HTML,CSS,JS.
